@@ -1,0 +1,20 @@
+body{
+  margin:0px;
+  padding:0px;
+}
+ul{
+  padding-inline-start: 0px;
+}
+nav a{
+  text-decoration: none;
+  color:#808080;
+  padding:0px 20px;
+  border-right: 2px solid #808080;
+  
+}
+nav a:last-child{
+  border-right: 0px solid #808080;
+}
+nav {
+  margin:20px 0px;
+}

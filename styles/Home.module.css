@@ -1,0 +1,112 @@
+
+
+
+.containerFluid{
+  padding: 0px 40px;
+}
+.logoSection
+{
+height:200px;
+text-align:center;
+padding:10px;
+}
+.title{
+text-align:center;
+padding:10px;
+}
+.brandsList ul{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style: none;
+  white-space: nowrap;
+  padding-inline-start: 0px !important;
+  
+}
+.navMenu{
+text-align: center;
+}
+.divider{
+padding:10px;
+}
+
+.ourPartners{
+height:500px;
+width:100%;
+margin:20px 0px;
+background-image: url("../img/Casa Vogue_Image 1920x1080.jpg");
+background-repeat: no-repeat;
+background-color: #cccccc;
+background-attachment: fixed;
+background-position: center;
+
+}
+.banner{
+width:100%;
+text-align: center;
+}
+.baner p{
+  text-align: center;
+  padding-top:50px;
+  font-size:20px;
+  color:white;
+  width:50%;
+  margin:auto;
+}
+
+.aboutUsText{
+text-align: center;
+padding-top:50px;
+font-size:20px;
+color:white;
+width:50%;
+margin:auto;
+
+}
+.aboutUsTitle{
+font-size:30px;
+}
+.videosTitle{
+font-size:30px;
+color:#000000 !important;
+text-align: center;
+padding-top:50px;
+font-size:20px;
+width:50%;
+margin:auto;
+}
+.videosSectios{
+height:auto;
+padding-bottom:50px;
+background-image: url("../img/GettyImages-1153890988.png");
+background-repeat: no-repeat;
+background-color: #cccccc;
+background-attachment: fixed;
+background-position: center;
+
+}
+.videosSectios ul{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+list-style: none;
+white-space: nowrap;
+}
+.card{
+margin-top: 20px;
+padding:5px;
+background-color:#fff;
+border-radius: 5px;
+box-shadow: 5px 10px #e7e7e7;
+}
+.cardFooter{
+text-align: center;
+padding:10px;
+}
+.cardFooter h4{
+color:#b4bbb4;
+}
+
+#navLink a{
+  padding: 0px 10px 0px 10px;
+}

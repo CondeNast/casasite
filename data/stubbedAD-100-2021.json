@@ -1,0 +1,852 @@
+{
+    "data": {
+        "id": 1,
+        "attributes": {
+            "micrositeId": "ad-100-2021",
+            "title": "Architectural Digest",
+            "createdAt": "2021-12-10T08:25:06.782Z",
+            "updatedAt": "2021-12-13T04:49:11.545Z",
+            "publishedAt": "2021-12-10T08:27:23.596Z",
+            "backgroundColor": "#CBE8EE",
+            "Body": [
+                {
+                    "id": 4,
+                    "__component": "microsite.navigation",
+                    "nav_items": {
+                        "data": [
+                            {
+                                "id": 1,
+                                "attributes": {
+                                    "title": "Introduction",
+                                    "createdAt": "2021-12-10T04:12:11.492Z",
+                                    "updatedAt": "2021-12-13T04:47:45.643Z",
+                                    "publishedAt": "2021-12-10T08:26:26.141Z",
+                                    "locale": "en",
+                                    "navRef": "ad-100-2021-about",
+                                    "localizations": {
+                                        "data": []
+                                    }
+                                }
+                            },
+                            {
+                                "id": 2,
+                                "attributes": {
+                                    "title": "Winners",
+                                    "createdAt": "2021-12-10T04:12:39.514Z",
+                                    "updatedAt": "2021-12-13T04:48:04.510Z",
+                                    "publishedAt": "2021-12-10T08:26:30.428Z",
+                                    "locale": "en",
+                                    "navRef": "ad-100-2021-winners",
+                                    "localizations": {
+                                        "data": []
+                                    }
+                                }
+                            },
+                            {
+                                "id": 3,
+                                "attributes": {
+                                    "title": "Episodes",
+                                    "createdAt": "2021-12-10T04:12:59.215Z",
+                                    "updatedAt": "2021-12-13T04:47:54.180Z",
+                                    "publishedAt": "2021-12-10T08:26:19.579Z",
+                                    "locale": "en",
+                                    "navRef": "ad-100-2021-episodes",
+                                    "localizations": {
+                                        "data": []
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 3,
+                    "__component": "microsite.content",
+                    "navRef": "ad-100-2021-about",
+                    "content": {
+                        "data": {
+                            "id": 1,
+                            "attributes": {
+                                "title": "",
+                                "description": "AD100 is an endeavour to spotlight the 100 most influential architects and interior designers in India. Our carefully curated list focuses on individuals and firms whose projects represent the power of architecture to transcend functionality, create enduring spaces for its inhabitants, and define new idioms for the cities in which they are located. This year, due to the pandemic, the traditional on-ground event has gone digital. Tune into our Instagram account to watch the AD100 campaign unfold.",
+                                "createdAt": "2021-12-10T04:14:19.548Z",
+                                "updatedAt": "2021-12-13T04:32:51.275Z",
+                                "publishedAt": "2021-12-10T08:25:44.979Z",
+                                "locale": "en",
+                                "uniqueName": "ad-100-2021-about",
+                                "image": {
+                                    "data": null
+                                },
+                                "listItem": [],
+                                "localizations": {
+                                    "data": []
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "__component": "microsite.content",
+                    "navRef": "ad-100-2021-winners",
+                    "content": {
+                        "data": {
+                            "id": 2,
+                            "attributes": {
+                                "title": "The 100 most Influential Architects and Interior Designers in India",
+                                "description": null,
+                                "createdAt": "2021-12-12T19:49:49.311Z",
+                                "updatedAt": "2021-12-13T04:33:02.439Z",
+                                "publishedAt": "2021-12-12T19:49:50.418Z",
+                                "locale": "en",
+                                "uniqueName": "ad-100-2021-winners",
+                                "image": {
+                                    "data": null
+                                },
+                                "listItem": [
+                                    {
+                                        "id": 1,
+                                        "listItemData": "Abha Narain Lamba Associates"
+                                    },
+                                    {
+                                        "id": 2,
+                                        "listItemData": "Abhimanyu Dalal Architects"
+                                    },
+                                    {
+                                        "id": 3,
+                                        "listItemData": "Abin Design Studio"
+                                    },
+                                    {
+                                        "id": 4,
+                                        "listItemData": "ABM Architects"
+                                    }
+                                ],
+                                "localizations": {
+                                    "data": []
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": 1,
+                    "__component": "microsite.video-section",
+                    "title": "Episodes",
+                    "navRef": "ad-100-2021-episodes",
+                    "videos": {
+                        "data": [
+                            {
+                                "id": 1,
+                                "attributes": {
+                                    "caption": "",
+                                    "src": "https://www.youtube.com/watch?v=frTdFYE0HgA",
+                                    "createdAt": "2021-12-10T04:15:48.892Z",
+                                    "updatedAt": "2021-12-14T05:12:49.359Z",
+                                    "publishedAt": "2021-12-10T08:26:52.727Z",
+                                    "title": "The Lightwalkers",
+                                    "social_links": {
+                                        "data": []
+                                    },
+                                    "thumbnail": {
+                                        "data": {
+                                            "id": 9,
+                                            "attributes": {
+                                                "name": "Lightwalkers.jpeg",
+                                                "alternativeText": "Lightwalkers.jpeg",
+                                                "caption": "Lightwalkers.jpeg",
+                                                "width": 600,
+                                                "height": 337,
+                                                "formats": {
+                                                    "small": {
+                                                        "ext": ".jpeg",
+                                                        "url": "/uploads/small_Lightwalkers_f754b00b4f.jpeg",
+                                                        "hash": "small_Lightwalkers_f754b00b4f",
+                                                        "mime": "image/jpeg",
+                                                        "name": "small_Lightwalkers.jpeg",
+                                                        "path": null,
+                                                        "size": 36.31,
+                                                        "width": 500,
+                                                        "height": 281
+                                                    },
+                                                    "thumbnail": {
+                                                        "ext": ".jpeg",
+                                                        "url": "/uploads/thumbnail_Lightwalkers_f754b00b4f.jpeg",
+                                                        "hash": "thumbnail_Lightwalkers_f754b00b4f",
+                                                        "mime": "image/jpeg",
+                                                        "name": "thumbnail_Lightwalkers.jpeg",
+                                                        "path": null,
+                                                        "size": 10.16,
+                                                        "width": 245,
+                                                        "height": 138
+                                                    }
+                                                },
+                                                "hash": "Lightwalkers_f754b00b4f",
+                                                "ext": ".jpeg",
+                                                "mime": "image/jpeg",
+                                                "size": 50.55,
+                                                "url": "/uploads/Lightwalkers_f754b00b4f.jpeg",
+                                                "previewUrl": null,
+                                                "provider": "local",
+                                                "provider_metadata": null,
+                                                "createdAt": "2021-12-14T05:11:45.978Z",
+                                                "updatedAt": "2021-12-14T05:11:45.978Z"
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "id": 2,
+                                "attributes": {
+                                    "caption": "",
+                                    "src": "https://www.youtube.com/watch?v=3UpOGDnY1tw",
+                                    "createdAt": "2021-12-10T04:16:18.343Z",
+                                    "updatedAt": "2021-12-14T05:13:50.149Z",
+                                    "publishedAt": "2021-12-10T08:27:05.887Z",
+                                    "title": "The culture Keepers",
+                                    "social_links": {
+                                        "data": [
+                                            {
+                                                "id": 3,
+                                                "attributes": {
+                                                    "url": "https://www.youtube.com/watch?v=3UpOGDnY1tw",
+                                                    "createdAt": "2021-12-12T19:28:53.372Z",
+                                                    "updatedAt": "2021-12-12T19:28:54.170Z",
+                                                    "publishedAt": "2021-12-12T19:28:54.168Z",
+                                                    "name": "AD-100-Youtube",
+                                                    "icon_image": {
+                                                        "data": {
+                                                            "id": 6,
+                                                            "attributes": {
+                                                                "name": "Youtube.png",
+                                                                "alternativeText": "Youtube.png",
+                                                                "caption": "Youtube.png",
+                                                                "width": 418,
+                                                                "height": 418,
+                                                                "formats": {
+                                                                    "thumbnail": {
+                                                                        "ext": ".png",
+                                                                        "url": "/uploads/thumbnail_Youtube_10f6d91de2.png",
+                                                                        "hash": "thumbnail_Youtube_10f6d91de2",
+                                                                        "mime": "image/png",
+                                                                        "name": "thumbnail_Youtube.png",
+                                                                        "path": null,
+                                                                        "size": 11.03,
+                                                                        "width": 156,
+                                                                        "height": 156
+                                                                    }
+                                                                },
+                                                                "hash": "Youtube_10f6d91de2",
+                                                                "ext": ".png",
+                                                                "mime": "image/png",
+                                                                "size": 5.35,
+                                                                "url": "/uploads/Youtube_10f6d91de2.png",
+                                                                "previewUrl": null,
+                                                                "provider": "local",
+                                                                "provider_metadata": null,
+                                                                "createdAt": "2021-12-12T19:28:36.389Z",
+                                                                "updatedAt": "2021-12-12T19:28:36.389Z"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "id": 1,
+                                                "attributes": {
+                                                    "url": "https://www.facebook.com/architecturaldigestindia/videos/565455221415372",
+                                                    "createdAt": "2021-12-11T06:16:56.490Z",
+                                                    "updatedAt": "2021-12-12T19:29:08.419Z",
+                                                    "publishedAt": "2021-12-11T06:16:57.632Z",
+                                                    "name": "AD-100-Facebook",
+                                                    "icon_image": {
+                                                        "data": {
+                                                            "id": 4,
+                                                            "attributes": {
+                                                                "name": "Facebook.png",
+                                                                "alternativeText": "Facebook.png",
+                                                                "caption": "Facebook.png",
+                                                                "width": 418,
+                                                                "height": 418,
+                                                                "formats": {
+                                                                    "thumbnail": {
+                                                                        "ext": ".png",
+                                                                        "url": "/uploads/thumbnail_Facebook_53c71912de.png",
+                                                                        "hash": "thumbnail_Facebook_53c71912de",
+                                                                        "mime": "image/png",
+                                                                        "name": "thumbnail_Facebook.png",
+                                                                        "path": null,
+                                                                        "size": 7.33,
+                                                                        "width": 156,
+                                                                        "height": 156
+                                                                    }
+                                                                },
+                                                                "hash": "Facebook_53c71912de",
+                                                                "ext": ".png",
+                                                                "mime": "image/png",
+                                                                "size": 4.96,
+                                                                "url": "/uploads/Facebook_53c71912de.png",
+                                                                "previewUrl": null,
+                                                                "provider": "local",
+                                                                "provider_metadata": null,
+                                                                "createdAt": "2021-12-12T19:24:15.001Z",
+                                                                "updatedAt": "2021-12-12T19:24:15.001Z"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "id": 2,
+                                                "attributes": {
+                                                    "url": "https://www.instagram.com/p/CVm-6_EF9KG/",
+                                                    "createdAt": "2021-12-12T19:27:47.869Z",
+                                                    "updatedAt": "2021-12-12T19:28:59.277Z",
+                                                    "publishedAt": "2021-12-12T19:28:59.275Z",
+                                                    "name": "AD-100-Instagram",
+                                                    "icon_image": {
+                                                        "data": {
+                                                            "id": 5,
+                                                            "attributes": {
+                                                                "name": "Instagram.png",
+                                                                "alternativeText": "Instagram.png",
+                                                                "caption": "Instagram.png",
+                                                                "width": 417,
+                                                                "height": 418,
+                                                                "formats": {
+                                                                    "thumbnail": {
+                                                                        "ext": ".png",
+                                                                        "url": "/uploads/thumbnail_Instagram_089366a5a3.png",
+                                                                        "hash": "thumbnail_Instagram_089366a5a3",
+                                                                        "mime": "image/png",
+                                                                        "name": "thumbnail_Instagram.png",
+                                                                        "path": null,
+                                                                        "size": 16.57,
+                                                                        "width": 156,
+                                                                        "height": 156
+                                                                    }
+                                                                },
+                                                                "hash": "Instagram_089366a5a3",
+                                                                "ext": ".png",
+                                                                "mime": "image/png",
+                                                                "size": 8.81,
+                                                                "url": "/uploads/Instagram_089366a5a3.png",
+                                                                "previewUrl": null,
+                                                                "provider": "local",
+                                                                "provider_metadata": null,
+                                                                "createdAt": "2021-12-12T19:27:39.860Z",
+                                                                "updatedAt": "2021-12-12T19:27:39.860Z"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    "thumbnail": {
+                                        "data": {
+                                            "id": 10,
+                                            "attributes": {
+                                                "name": "Culture.jpeg",
+                                                "alternativeText": "Culture.jpeg",
+                                                "caption": "Culture.jpeg",
+                                                "width": 600,
+                                                "height": 337,
+                                                "formats": {
+                                                    "small": {
+                                                        "ext": ".jpeg",
+                                                        "url": "/uploads/small_Culture_9d0d345ade.jpeg",
+                                                        "hash": "small_Culture_9d0d345ade",
+                                                        "mime": "image/jpeg",
+                                                        "name": "small_Culture.jpeg",
+                                                        "path": null,
+                                                        "size": 36.41,
+                                                        "width": 500,
+                                                        "height": 281
+                                                    },
+                                                    "thumbnail": {
+                                                        "ext": ".jpeg",
+                                                        "url": "/uploads/thumbnail_Culture_9d0d345ade.jpeg",
+                                                        "hash": "thumbnail_Culture_9d0d345ade",
+                                                        "mime": "image/jpeg",
+                                                        "name": "thumbnail_Culture.jpeg",
+                                                        "path": null,
+                                                        "size": 10.41,
+                                                        "width": 245,
+                                                        "height": 138
+                                                    }
+                                                },
+                                                "hash": "Culture_9d0d345ade",
+                                                "ext": ".jpeg",
+                                                "mime": "image/jpeg",
+                                                "size": 50.11,
+                                                "url": "/uploads/Culture_9d0d345ade.jpeg",
+                                                "previewUrl": null,
+                                                "provider": "local",
+                                                "provider_metadata": null,
+                                                "createdAt": "2021-12-14T05:11:45.987Z",
+                                                "updatedAt": "2021-12-14T05:11:45.987Z"
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "id": 3,
+                                "attributes": {
+                                    "caption": "",
+                                    "src": "https://www.youtube.com/watch?v=GKIdlW0MGQA",
+                                    "createdAt": "2021-12-10T04:16:42.667Z",
+                                    "updatedAt": "2021-12-14T05:13:32.720Z",
+                                    "publishedAt": "2021-12-10T08:27:01.418Z",
+                                    "title": "The Tastemakers",
+                                    "social_links": {
+                                        "data": []
+                                    },
+                                    "thumbnail": {
+                                        "data": {
+                                            "id": 12,
+                                            "attributes": {
+                                                "name": "Tastemakers.jpeg",
+                                                "alternativeText": "Tastemakers.jpeg",
+                                                "caption": "Tastemakers.jpeg",
+                                                "width": 600,
+                                                "height": 337,
+                                                "formats": {
+                                                    "small": {
+                                                        "ext": ".jpeg",
+                                                        "url": "/uploads/small_Tastemakers_a005145eae.jpeg",
+                                                        "hash": "small_Tastemakers_a005145eae",
+                                                        "mime": "image/jpeg",
+                                                        "name": "small_Tastemakers.jpeg",
+                                                        "path": null,
+                                                        "size": 53.24,
+                                                        "width": 500,
+                                                        "height": 281
+                                                    },
+                                                    "thumbnail": {
+                                                        "ext": ".jpeg",
+                                                        "url": "/uploads/thumbnail_Tastemakers_a005145eae.jpeg",
+                                                        "hash": "thumbnail_Tastemakers_a005145eae",
+                                                        "mime": "image/jpeg",
+                                                        "name": "thumbnail_Tastemakers.jpeg",
+                                                        "path": null,
+                                                        "size": 14.7,
+                                                        "width": 245,
+                                                        "height": 138
+                                                    }
+                                                },
+                                                "hash": "Tastemakers_a005145eae",
+                                                "ext": ".jpeg",
+                                                "mime": "image/jpeg",
+                                                "size": 74.83,
+                                                "url": "/uploads/Tastemakers_a005145eae.jpeg",
+                                                "previewUrl": null,
+                                                "provider": "local",
+                                                "provider_metadata": null,
+                                                "createdAt": "2021-12-14T05:11:46.010Z",
+                                                "updatedAt": "2021-12-14T05:11:46.010Z"
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "id": 4,
+                                "attributes": {
+                                    "caption": "",
+                                    "src": "https://www.youtube.com/watch?v=M2YO82cG-uQ",
+                                    "createdAt": "2021-12-10T04:17:11.794Z",
+                                    "updatedAt": "2021-12-14T05:12:12.215Z",
+                                    "publishedAt": "2021-12-10T08:26:47.882Z",
+                                    "title": "Garden Party",
+                                    "social_links": {
+                                        "data": []
+                                    },
+                                    "thumbnail": {
+                                        "data": {
+                                            "id": 13,
+                                            "attributes": {
+                                                "name": "Garden Party.jpeg",
+                                                "alternativeText": "Garden Party.jpeg",
+                                                "caption": "Garden Party.jpeg",
+                                                "width": 600,
+                                                "height": 337,
+                                                "formats": {
+                                                    "small": {
+                                                        "ext": ".jpeg",
+                                                        "url": "/uploads/small_Garden_Party_943546e866.jpeg",
+                                                        "hash": "small_Garden_Party_943546e866",
+                                                        "mime": "image/jpeg",
+                                                        "name": "small_Garden Party.jpeg",
+                                                        "path": null,
+                                                        "size": 48.1,
+                                                        "width": 500,
+                                                        "height": 281
+                                                    },
+                                                    "thumbnail": {
+                                                        "ext": ".jpeg",
+                                                        "url": "/uploads/thumbnail_Garden_Party_943546e866.jpeg",
+                                                        "hash": "thumbnail_Garden_Party_943546e866",
+                                                        "mime": "image/jpeg",
+                                                        "name": "thumbnail_Garden Party.jpeg",
+                                                        "path": null,
+                                                        "size": 11.97,
+                                                        "width": 245,
+                                                        "height": 138
+                                                    }
+                                                },
+                                                "hash": "Garden_Party_943546e866",
+                                                "ext": ".jpeg",
+                                                "mime": "image/jpeg",
+                                                "size": 69.19,
+                                                "url": "/uploads/Garden_Party_943546e866.jpeg",
+                                                "previewUrl": null,
+                                                "provider": "local",
+                                                "provider_metadata": null,
+                                                "createdAt": "2021-12-14T05:11:46.016Z",
+                                                "updatedAt": "2021-12-14T05:11:46.016Z"
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "id": 5,
+                                "attributes": {
+                                    "caption": "",
+                                    "src": "https://www.youtube.com/watch?v=TFhgWxy-puU",
+                                    "createdAt": "2021-12-10T04:17:46.942Z",
+                                    "updatedAt": "2021-12-14T05:13:07.052Z",
+                                    "publishedAt": "2021-12-10T08:26:56.992Z",
+                                    "title": "The Modernists",
+                                    "social_links": {
+                                        "data": []
+                                    },
+                                    "thumbnail": {
+                                        "data": {
+                                            "id": 11,
+                                            "attributes": {
+                                                "name": "Modernists.jpeg",
+                                                "alternativeText": "Modernists.jpeg",
+                                                "caption": "Modernists.jpeg",
+                                                "width": 600,
+                                                "height": 337,
+                                                "formats": {
+                                                    "small": {
+                                                        "ext": ".jpeg",
+                                                        "url": "/uploads/small_Modernists_97f6092a9e.jpeg",
+                                                        "hash": "small_Modernists_97f6092a9e",
+                                                        "mime": "image/jpeg",
+                                                        "name": "small_Modernists.jpeg",
+                                                        "path": null,
+                                                        "size": 33.69,
+                                                        "width": 500,
+                                                        "height": 281
+                                                    },
+                                                    "thumbnail": {
+                                                        "ext": ".jpeg",
+                                                        "url": "/uploads/thumbnail_Modernists_97f6092a9e.jpeg",
+                                                        "hash": "thumbnail_Modernists_97f6092a9e",
+                                                        "mime": "image/jpeg",
+                                                        "name": "thumbnail_Modernists.jpeg",
+                                                        "path": null,
+                                                        "size": 9.92,
+                                                        "width": 245,
+                                                        "height": 138
+                                                    }
+                                                },
+                                                "hash": "Modernists_97f6092a9e",
+                                                "ext": ".jpeg",
+                                                "mime": "image/jpeg",
+                                                "size": 45.04,
+                                                "url": "/uploads/Modernists_97f6092a9e.jpeg",
+                                                "previewUrl": null,
+                                                "provider": "local",
+                                                "provider_metadata": null,
+                                                "createdAt": "2021-12-14T05:11:46.009Z",
+                                                "updatedAt": "2021-12-14T05:11:46.009Z"
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    "backgroundImage": {
+                        "data": null
+                    }
+                },
+                {
+                    "id": 4,
+                    "__component": "microsite.brand",
+                    "title": "Associate Sponsors",
+                    "navRef": "ad-100-2021-assocSponsors",
+                    "brands": {
+                        "data": [
+                            {
+                                "id": 1,
+                                "attributes": {
+                                    "createdAt": "2021-12-10T04:31:09.062Z",
+                                    "updatedAt": "2021-12-12T19:51:17.148Z",
+                                    "publishedAt": "2021-12-10T08:25:39.642Z",
+                                    "locale": "en",
+                                    "url": "https://www.aclassmarble.co.in/",
+                                    "name": null,
+                                    "image": {
+                                        "data": {
+                                            "id": 7,
+                                            "attributes": {
+                                                "name": "aclass(1).png",
+                                                "alternativeText": "aclass(1).png",
+                                                "caption": "aclass(1).png",
+                                                "width": 2034,
+                                                "height": 1832,
+                                                "formats": {
+                                                    "large": {
+                                                        "ext": ".png",
+                                                        "url": "/uploads/large_aclass_1_a0841142aa.png",
+                                                        "hash": "large_aclass_1_a0841142aa",
+                                                        "mime": "image/png",
+                                                        "name": "large_aclass(1).png",
+                                                        "path": null,
+                                                        "size": 138.03,
+                                                        "width": 1000,
+                                                        "height": 901
+                                                    },
+                                                    "small": {
+                                                        "ext": ".png",
+                                                        "url": "/uploads/small_aclass_1_a0841142aa.png",
+                                                        "hash": "small_aclass_1_a0841142aa",
+                                                        "mime": "image/png",
+                                                        "name": "small_aclass(1).png",
+                                                        "path": null,
+                                                        "size": 59.41,
+                                                        "width": 500,
+                                                        "height": 450
+                                                    },
+                                                    "medium": {
+                                                        "ext": ".png",
+                                                        "url": "/uploads/medium_aclass_1_a0841142aa.png",
+                                                        "hash": "medium_aclass_1_a0841142aa",
+                                                        "mime": "image/png",
+                                                        "name": "medium_aclass(1).png",
+                                                        "path": null,
+                                                        "size": 93.36,
+                                                        "width": 750,
+                                                        "height": 676
+                                                    },
+                                                    "thumbnail": {
+                                                        "ext": ".png",
+                                                        "url": "/uploads/thumbnail_aclass_1_a0841142aa.png",
+                                                        "hash": "thumbnail_aclass_1_a0841142aa",
+                                                        "mime": "image/png",
+                                                        "name": "thumbnail_aclass(1).png",
+                                                        "path": null,
+                                                        "size": 17.48,
+                                                        "width": 173,
+                                                        "height": 156
+                                                    }
+                                                },
+                                                "hash": "aclass_1_a0841142aa",
+                                                "ext": ".png",
+                                                "mime": "image/png",
+                                                "size": 116.85,
+                                                "url": "/uploads/aclass_1_a0841142aa.png",
+                                                "previewUrl": null,
+                                                "provider": "local",
+                                                "provider_metadata": null,
+                                                "createdAt": "2021-12-12T19:51:05.447Z",
+                                                "updatedAt": "2021-12-12T19:51:05.447Z"
+                                            }
+                                        }
+                                    },
+                                    "localizations": {
+                                        "data": []
+                                    }
+                                }
+                            },
+                            {
+                                "id": 2,
+                                "attributes": {
+                                    "createdAt": "2021-12-10T05:21:12.912Z",
+                                    "updatedAt": "2021-12-10T08:27:16.179Z",
+                                    "publishedAt": "2021-12-10T08:27:16.177Z",
+                                    "locale": "en",
+                                    "url": "https://www.axor-design.com/int/",
+                                    "name": null,
+                                    "image": {
+                                        "data": {
+                                            "id": 2,
+                                            "attributes": {
+                                                "name": "AXOR_positive_black__larger_than_100mm.png",
+                                                "alternativeText": "AXOR_positive_black__larger_than_100mm.png",
+                                                "caption": "AXOR_positive_black__larger_than_100mm.png",
+                                                "width": 744,
+                                                "height": 402,
+                                                "formats": {
+                                                    "small": {
+                                                        "ext": ".png",
+                                                        "url": "/uploads/small_AXOR_positive_black_larger_than_100mm_4a320e0d70.png",
+                                                        "hash": "small_AXOR_positive_black_larger_than_100mm_4a320e0d70",
+                                                        "mime": "image/png",
+                                                        "name": "small_AXOR_positive_black__larger_than_100mm.png",
+                                                        "path": null,
+                                                        "size": 7.74,
+                                                        "width": 500,
+                                                        "height": 270
+                                                    },
+                                                    "thumbnail": {
+                                                        "ext": ".png",
+                                                        "url": "/uploads/thumbnail_AXOR_positive_black_larger_than_100mm_4a320e0d70.png",
+                                                        "hash": "thumbnail_AXOR_positive_black_larger_than_100mm_4a320e0d70",
+                                                        "mime": "image/png",
+                                                        "name": "thumbnail_AXOR_positive_black__larger_than_100mm.png",
+                                                        "path": null,
+                                                        "size": 3.19,
+                                                        "width": 245,
+                                                        "height": 132
+                                                    }
+                                                },
+                                                "hash": "AXOR_positive_black_larger_than_100mm_4a320e0d70",
+                                                "ext": ".png",
+                                                "mime": "image/png",
+                                                "size": 7.35,
+                                                "url": "/uploads/AXOR_positive_black_larger_than_100mm_4a320e0d70.png",
+                                                "previewUrl": null,
+                                                "provider": "local",
+                                                "provider_metadata": null,
+                                                "createdAt": "2021-12-10T04:34:38.257Z",
+                                                "updatedAt": "2021-12-10T04:34:38.257Z"
+                                            }
+                                        }
+                                    },
+                                    "localizations": {
+                                        "data": []
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 5,
+                    "__component": "microsite.brand",
+                    "title": "Partners",
+                    "navRef": "ad-100-2021-partners",
+                    "brands": {
+                        "data": [
+                            {
+                                "id": 2,
+                                "attributes": {
+                                    "createdAt": "2021-12-10T05:21:12.912Z",
+                                    "updatedAt": "2021-12-10T08:27:16.179Z",
+                                    "publishedAt": "2021-12-10T08:27:16.177Z",
+                                    "locale": "en",
+                                    "url": "https://www.axor-design.com/int/",
+                                    "name": null,
+                                    "image": {
+                                        "data": {
+                                            "id": 2,
+                                            "attributes": {
+                                                "name": "AXOR_positive_black__larger_than_100mm.png",
+                                                "alternativeText": "AXOR_positive_black__larger_than_100mm.png",
+                                                "caption": "AXOR_positive_black__larger_than_100mm.png",
+                                                "width": 744,
+                                                "height": 402,
+                                                "formats": {
+                                                    "small": {
+                                                        "ext": ".png",
+                                                        "url": "/uploads/small_AXOR_positive_black_larger_than_100mm_4a320e0d70.png",
+                                                        "hash": "small_AXOR_positive_black_larger_than_100mm_4a320e0d70",
+                                                        "mime": "image/png",
+                                                        "name": "small_AXOR_positive_black__larger_than_100mm.png",
+                                                        "path": null,
+                                                        "size": 7.74,
+                                                        "width": 500,
+                                                        "height": 270
+                                                    },
+                                                    "thumbnail": {
+                                                        "ext": ".png",
+                                                        "url": "/uploads/thumbnail_AXOR_positive_black_larger_than_100mm_4a320e0d70.png",
+                                                        "hash": "thumbnail_AXOR_positive_black_larger_than_100mm_4a320e0d70",
+                                                        "mime": "image/png",
+                                                        "name": "thumbnail_AXOR_positive_black__larger_than_100mm.png",
+                                                        "path": null,
+                                                        "size": 3.19,
+                                                        "width": 245,
+                                                        "height": 132
+                                                    }
+                                                },
+                                                "hash": "AXOR_positive_black_larger_than_100mm_4a320e0d70",
+                                                "ext": ".png",
+                                                "mime": "image/png",
+                                                "size": 7.35,
+                                                "url": "/uploads/AXOR_positive_black_larger_than_100mm_4a320e0d70.png",
+                                                "previewUrl": null,
+                                                "provider": "local",
+                                                "provider_metadata": null,
+                                                "createdAt": "2021-12-10T04:34:38.257Z",
+                                                "updatedAt": "2021-12-10T04:34:38.257Z"
+                                            }
+                                        }
+                                    },
+                                    "localizations": {
+                                        "data": []
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                }
+            ],
+            "HeroBanner": {
+                "data": {
+                    "id": 3,
+                    "attributes": {
+                        "name": "AD100-logo.png",
+                        "alternativeText": "AD100-logo.png",
+                        "caption": "AD100-logo.png",
+                        "width": 568,
+                        "height": 592,
+                        "formats": {
+                            "small": {
+                                "ext": ".png",
+                                "url": "/uploads/small_AD_100_logo_4e33872e6b.png",
+                                "hash": "small_AD_100_logo_4e33872e6b",
+                                "mime": "image/png",
+                                "name": "small_AD100-logo.png",
+                                "path": null,
+                                "size": 51.04,
+                                "width": 480,
+                                "height": 500
+                            },
+                            "thumbnail": {
+                                "ext": ".png",
+                                "url": "/uploads/thumbnail_AD_100_logo_4e33872e6b.png",
+                                "hash": "thumbnail_AD_100_logo_4e33872e6b",
+                                "mime": "image/png",
+                                "name": "thumbnail_AD100-logo.png",
+                                "path": null,
+                                "size": 11.08,
+                                "width": 150,
+                                "height": 156
+                            }
+                        },
+                        "hash": "AD_100_logo_4e33872e6b",
+                        "ext": ".png",
+                        "mime": "image/png",
+                        "size": 19.99,
+                        "url": "/uploads/AD_100_logo_4e33872e6b.png",
+                        "previewUrl": null,
+                        "provider": "local",
+                        "provider_metadata": null,
+                        "createdAt": "2021-12-12T15:13:49.519Z",
+                        "updatedAt": "2021-12-12T15:13:49.519Z"
+                    }
+                }
+            }
+        }
+    },
+    "meta": {}
+}
